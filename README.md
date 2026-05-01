@@ -80,7 +80,7 @@ This repository does NOT include:
 
 Deployed contract address:
 
-(Add your contract address here)
+(0xea1989dDc9F7db000347F6Ac14C63fd395B6EDAd)
 
 ---
 
