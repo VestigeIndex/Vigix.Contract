@@ -103,3 +103,13 @@ You are not permitted to use the name "VIGIX", "Vestige Index", or any similar b
 to represent a derivative or modified version of this project without explicit permission.
 
 All rights to the Vestige Index brand and identity are reserved.
+## Minting Policy
+
+VIGIX cannot be manually minted by the owner.
+
+New VIGIX is only minted when a user buys through the contract, according to the bonding curve logic.
+
+VIGIX is burned when a user sells through the contract.
+
+The owner cannot arbitrarily create tokens.
+
