@@ -113,3 +113,10 @@ VIGIX is burned when a user sells through the contract.
 
 The owner cannot arbitrarily create tokens.
 
+## Liquidity Activation
+
+Selling VIGIX is enabled only after the contract reaches a minimum liquidity threshold.
+
+This ensures that early liquidity is sufficient to support fair redemptions.
+
+Before this threshold is reached, users can buy but not sell.
